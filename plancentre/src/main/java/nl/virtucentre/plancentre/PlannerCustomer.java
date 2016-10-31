@@ -1,4 +1,4 @@
-package nl.virtucentre.gplanner;
+package nl.virtucentre.plancentre;
 
 public class PlannerCustomer {
 
